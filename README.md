@@ -52,7 +52,7 @@ This is a front-end game developed with HTML, CSS, and JavaScript. To play it in
         ```
     * **Navigate to the project directory:**
         ```bash
-        cd ParrotCardGame
+        cd Projeto-Parrot-Card-Game
         ```
     * **Open the `index.html` file in your preferred web browser.** You can do this by dragging the `index.html` file into the browser window or by double-clicking it. This method allows you to play the game directly.
 
